@@ -1,0 +1,11 @@
+T:\Education\C#.Net\TendekaObjectiveTask1\TendekaObjectiveTask1\bin\Debug\TendekaObjectiveTask1.exe.config
+T:\Education\C#.Net\TendekaObjectiveTask1\TendekaObjectiveTask1\bin\Debug\TendekaObjectiveTask1.exe
+T:\Education\C#.Net\TendekaObjectiveTask1\TendekaObjectiveTask1\bin\Debug\TendekaObjectiveTask1.pdb
+T:\Education\C#.Net\TendekaObjectiveTask1\TendekaObjectiveTask1\obj\Debug\TendekaObjectiveTask1.csprojResolveAssemblyReference.cache
+T:\Education\C#.Net\TendekaObjectiveTask1\TendekaObjectiveTask1\obj\Debug\TendekaObjectiveTask1.Form1.resources
+T:\Education\C#.Net\TendekaObjectiveTask1\TendekaObjectiveTask1\obj\Debug\TendekaObjectiveTask1.Properties.Resources.resources
+T:\Education\C#.Net\TendekaObjectiveTask1\TendekaObjectiveTask1\obj\Debug\TendekaObjectiveTask1.csproj.GenerateResource.Cache
+T:\Education\C#.Net\TendekaObjectiveTask1\TendekaObjectiveTask1\obj\Debug\TendekaObjectiveTask1.exe
+T:\Education\C#.Net\TendekaObjectiveTask1\TendekaObjectiveTask1\obj\Debug\TendekaObjectiveTask1.pdb
+T:\Education\C#.Net\TendekaObjectiveTask1\TendekaObjectiveTask1\bin\Debug\Newtonsoft.Json.dll
+T:\Education\C#.Net\TendekaObjectiveTask1\TendekaObjectiveTask1\bin\Debug\Newtonsoft.Json.xml
